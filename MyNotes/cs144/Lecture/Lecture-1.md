@@ -4,7 +4,7 @@
 
 ### A day in in the life of a app
 
-在[大课](https://www.youtube.com/watch?v=r2WZNaFyrbQ&list=PL6RdenZrxrw9inR-IJv-erlOKRHjymxMN)中用了三个具体的例子来说明：
+在[大课](https://www.youtube.com/watch?v=r2WZNaFyrbQ&list=PL6RdenZrxrw9inR-IJv-erlOKRHjymxMN)~~(挺喜欢这俩老师讲课哈哈哈)~~中用了三个具体的例子来说明：
 
 WWW(http)
 
